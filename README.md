@@ -11,5 +11,5 @@ Builder. Explorer. Forever curious.
 - 💬 [Telegram](https://t.me/bilalsnz)  
 - 🎮 Discord: @bilalsnz  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdul-hamid-94602530b)  
-- 🌐 [My Website](https://abdulrahimbilal.github.io/portfolio)  
+- 🌐   
 - 👨‍💻 [GitHub](https://github.com/Bilalsnz)
