@@ -10,5 +10,6 @@ Builder. Explorer. Forever curious.
 - 🐦 [Twitter](https://x.com/_0x_prime)  
 - 💬 [Telegram](https://t.me/bilalsnz)  
 - 🎮 Discord: @bilalsnz  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-hamid-94602530b)
-- 🌐 [My Website](https://abdulrahimbilal.github.io/portfolio)
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdul-hamid-94602530b)  
+- 🌐 [My Website](https://abdulrahimbilal.github.io/portfolio)  
+- 👨‍💻 [GitHub](https://github.com/Bilalsnz)
